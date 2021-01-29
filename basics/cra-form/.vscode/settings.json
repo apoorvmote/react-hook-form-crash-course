@@ -1,0 +1,7 @@
+{
+    "files.autoSave": "off",
+    "editor.quickSuggestions": {
+        "strings": true
+    },
+    "tailwindCSS.emmetCompletions": true
+}
