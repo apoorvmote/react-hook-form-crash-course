@@ -4,4 +4,4 @@
 [![Read Tutorial](https://badgen.now.sh/badge/Read/Tutorial/purple)](https://apoorv.blog/posts/react-hook-form-crash-course.html)
 ![Typescript](https://badgen.net/badge/icon/typescript?icon=typescript&label)
 
-We are going to run lambda on multiple ram settings to find out which gives you better value for money :moneybag:. 
+We are going to run learn React hook form with NextJS and create react app. 
