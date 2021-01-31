@@ -3,7 +3,7 @@
 version: '3'
 
 vars:
-  COMMIT_MESSAGE: fixed readme
+  COMMIT_MESSAGE: added validation
 
 tasks:
   default:
