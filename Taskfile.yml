@@ -3,7 +3,7 @@
 version: '3'
 
 vars:
-  COMMIT_MESSAGE: added validation
+  COMMIT_MESSAGE: added form reset
 
 tasks:
   default:
